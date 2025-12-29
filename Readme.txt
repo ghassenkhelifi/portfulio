@@ -1,4 +1,3 @@
-# Siwar Taktak – Personal Portfolio
 
 Welcome to my personal portfolio website! 🚀  
 This site showcases my journey as an aspiring **Data Scientist** and **Full-Stack Developer**.
@@ -27,13 +26,3 @@ The site includes:
 - ⚽ TacticSence Phoenix (African Football Intelligence Platform)  
 
 
-## 📩 Contact
-
-Feel free to connect via:
-
-- [LinkedIn](https://www.linkedin.com/in/siwar-taktak-872b30220/)  
-- [GitHub](https://github.com/Siwartaktak)
-
----
-
-Thank you for visiting my portfolio! 😊
